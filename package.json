@@ -1,6 +1,6 @@
 {
-  "name": "ngx-facebook",
-  "version": "2.4.0",
+  "name": "@databowl/ngx-facebook",
+  "version": "2.5.0",
   "description": "Facebook TypeScript SDK for Angular2",
   "module": "dist/esm/index.js",
   "typings": "dist/esm/index.d.ts",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyra/ngx-facebook.git"
+    "url": "git+https://github.com/IWantPizza/ngx-facebook"
   },
   "keywords": [
     "facebook",
@@ -33,9 +33,9 @@
   "author": "Zyra Media Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zyra/ngx-facebook/issues"
+    "url": "https://github.com/IWantPizza/ngx-facebook/issues"
   },
-  "homepage": "https://github.com/zyra/ngx-facebook",
+  "homepage": "https://github.com/IWantPizza/ngx-facebook",
   "devDependencies": {
     "@angular/common": "4.1.2",
     "@angular/compiler": "4.1.2",
@@ -66,7 +66,7 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "karma-sauce-launcher": "^1.1.0",
     "lodash": "^4.17.4",
-    "rxjs": "5.1.1",
+    "rxjs": "^5.5.6",
     "systemjs": "^0.20.11",
     "ts-node": "^3.0.2",
     "tslint": "4.5.1",
